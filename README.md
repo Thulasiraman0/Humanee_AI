@@ -180,7 +180,7 @@ Transforms input text based on the selected mode.
 
 ## 🎨 Theming
 
-TextCraft AI uses CSS custom properties for full theme control. To customize colors, edit the variables in `app/globals.css`:
+Humanaee AI uses CSS custom properties for full theme control. To customize colors, edit the variables in `app/globals.css`:
 
 ```css
 :root {

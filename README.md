@@ -10,7 +10,7 @@
 
 ## 🌟 Overview
 
-**Humanee AI** is a beautifully designed, premium text transformation web application that helps writers, students, professionals, and content creators refine their text in seconds. Whether you need to summarize long articles, rewrite content in a different tone, translate between languages, or humanize AI-generated text, TextCraft AI delivers high-quality results through an elegant, intuitive interface.
+**Humanee AI** is a beautifully designed, premium text transformation web application that helps writers, students, professionals, and content creators refine their text in seconds. Whether you need to summarize long articles, rewrite content in a different tone, translate between languages, or humanize AI-generated text, Humanaee AI delivers high-quality results through an elegant, intuitive interface.
 
 ---
 
